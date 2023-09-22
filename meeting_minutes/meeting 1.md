@@ -1,5 +1,6 @@
 # Meeting Overview
-**Date and Time**:  September 20, 2023, 3:00 PM - 4:00 PM
+**Date and Time**:  September 20, 2023, 3:00 PM - 4:00 PM 
+
 **Attendees**: Mark McGill (supervisor), Alaa Wardeh, Xinuo Zhou 
 ## Progress Made
 In the week leading up to the meeting, the following progress was made:
