@@ -27,6 +27,22 @@
 * *0.5 hours* created GitLab repository
 * *10 mins* create a time log to catch up on what I've done on the other days of the week.
 
+## 23 Sep 2023
+
+* *0.5 hour* Watch a surreal video that presents a new vision of the future
+
+## 24 Sep 2023
+
+* *1.5 hour* figure out  how to factory setting the vr headset. successed.And start to download games and play it.
+
+## 27 Sep 2023
+
+* *1 hour*  browse literature, take notes (hand tracking https://faculty.washington.edu/ajko/books/user-interface-software-and-technology/hands).
+* *1 hour* Search the web for something related to eye-tracking technology.
+
+
+
+
 
 
 
