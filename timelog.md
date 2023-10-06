@@ -46,6 +46,12 @@
 * *3 hour*  browse literature, take notes. Got some ideas but not sure if it is off topic.
 * *1 hour*  play VR headset
 
+## 5 Oct 2023
+
+* *2 hour*  browse literature, take notes. 
+
+
+
 
 
 
