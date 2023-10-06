@@ -41,6 +41,12 @@
 * *1 hour* Search the web for something related to eye-tracking technology.
 
 
+## 4 Oct 2023
+
+* *3 hour*  browse literature, take notes. Got some ideas but not sure if it is off topic.
+* *1 hour*  play VR headset
+
+
 
 
 
