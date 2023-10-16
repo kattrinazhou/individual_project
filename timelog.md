@@ -48,7 +48,35 @@
 
 ## 5 Oct 2023
 
-* *2 hour*  browse literature, take notes. 
+* *2 hour*  browse literature, take notes.
+
+## 7 Oct 2023
+
+* *1 hours*  play VR headset, try to think some ideas
+
+## 8 Oct 2023
+
+* *40 minutes*  think about the ideas. Search for inspiration
+* *1 hours*  write some notes for essay
+
+## 11 Oct 2023
+
+* *30 minutes*  read one essay which is useless 
+
+## 14 Oct 2023
+
+* *40 minutes*  finish the outline for the recipe idea.
+* *2 hours*  find out the relatived videos to the VR recipe.
+
+## 15 Oct 2023
+
+* *2 hours*  browse literature, take notes. 
+
+## 16 Oct 2023
+
+* *40 minutes*  browse literature, take notes. Got some ideas, finish the outline for the back up plan idea
+* *2 hours*  search and read though the relative essays, record inclusion and conclusion
+
 
 
 
