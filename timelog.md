@@ -77,6 +77,14 @@
 * *40 minutes*  browse literature, take notes. Got some ideas, finish the outline for the back up plan idea
 * *2 hours*  search and read though the relative essays, record inclusion and conclusion
 
+## 18 Oct 2023
+
+* *40 minutes*  play new VR headset, try to connect Unity
+
+## 20 Oct 2023
+* *3 hours* Review meeting record, take some notes, then first look at the tutorial for interview question, then design a interview. 
+
+
 
 
 
