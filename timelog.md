@@ -82,8 +82,34 @@
 * *40 minutes*  play new VR headset, try to connect Unity
 
 ## 20 Oct 2023
-* *3 hours* Review meeting record, take some notes, then first look at the tutorial for interview question, then design a interview. 
+* *3 hours* Review meeting record, take some notes, then first look at the tutorial for interview question, then design a interview.
 
+## 22 Oct 2023
+
+* *40 minutes*  play new VR headset, try to connect meta quest 2
+* *1 hours*  finish the draft of the interview question and send it to the tutor.
+
+
+## 23 Oct 2023
+* *4 hours* start interview 2 people, finish the final interview question
+ 
+## 25 Oct 2023
+
+* *2 minutes*  interview 5 people
+
+## 26 Oct 2023
+* *3 hours* interview 6 people, record the process, modified the interview question according to the interview content
+
+## 29 Oct 2023
+
+* *1.5 hours*  interview 3 people
+
+## 31 Oct 2023
+* *3 hours* book a room to test VR headset , try to connect meta quest 3 with my Mac
+* *0.5 hours* interview 1 people 
+* *1 hour* supervisor meeting to talk about in next few weeks, i need to do analysis things.
+
+ 
 
 
 
