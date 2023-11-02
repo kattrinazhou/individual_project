@@ -1,7 +1,7 @@
 # Meeting Overview
-**Date and Time**:  October 17, 2023, 4:00 PM - 5:00 PM 
+**Date and Time**:  October 31, 2023, 4:00 PM - 5:00 PM 
 
-**Attendees**: Mark McGill (supervisor), Xinuo Zhou 
+**Attendees**: Mark McGill (supervisor), Xinuo Zhou ,
 ## Progress Made
 In the week leading up to the meeting, the following progress was made:
 
@@ -23,4 +23,6 @@ The following objectives were agreed upon for the coming week:
 * Start to learn Unity 3D tutorial
 * design an interview or questionnaire to collect more idea from users
 
-Meeting adjourned at 16:47 PM.
+Meeting adjourned at 16:24 PM.
+
+

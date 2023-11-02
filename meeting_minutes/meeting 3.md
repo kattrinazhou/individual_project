@@ -1,7 +1,7 @@
 # Meeting Overview
 **Date and Time**:  October 17, 2023, 4:00 PM - 5:00 PM 
 
-**Attendees**: Mark McGill (supervisor), Xinuo Zhou 
+**Attendees**: Mark McGill (supervisor), Xinuo Zhou , Alaa Wardeh
 ## Progress Made
 In the week leading up to the meeting, the following progress was made:
 
