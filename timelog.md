@@ -109,6 +109,17 @@
 * *0.5 hours* interview 1 people 
 * *1 hour* supervisor meeting to talk about in next few weeks, i need to do analysis things.
 
+## 3 Nov 2023
+* *3 hours* book a room to test VR headset , try to connect meta quest 3 with my Mac
+* *0.5 hours* interview 1 people 
+* *1 hour* supervisor meeting to talk about in next few weeks, i need to do analysis things.
+## 5 Nov 2023
+* *2 hours read hci notes
+
+## 9 Nov 2023
+* *4 hours read through trancript, find code, draw affinity diagram
+
+
  
 
 
