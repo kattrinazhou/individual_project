@@ -117,7 +117,12 @@
 * *2 hours read hci notes
 
 ## 9 Nov 2023
-* *4 hours read through trancript, find code, draw affinity diagram
+* *5 hours read through trancript, find code, draw affinity diagram
+
+## 13 Nov 2023
+* *4 hours group all interview reqonses, evaluate, generate the final idea
+
+
 
 
  
