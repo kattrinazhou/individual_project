@@ -122,6 +122,8 @@
 ## 13 Nov 2023
 * *4 hours group all interview reqonses, evaluate, generate the final idea
 
+## 15 Nov 2023
+* *30 miniutes write the meeting minutes
 
 
 
