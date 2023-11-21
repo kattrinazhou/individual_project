@@ -125,6 +125,15 @@
 ## 15 Nov 2023
 * *30 miniutes write the meeting minutes
 
+## 20 Nov 2023
+* *3 hours read the litarature about the qulitative analysis
+
+## 21 Nov 2023
+* *1 hours design the multi timer tasks
+* *0.5 hours find out the benefits with the AR glasses timer to compare with alexa device
+
+
+
 
 
  
